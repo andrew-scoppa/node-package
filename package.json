@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/andrew-scoppa/node-package/issues"
   },
+  "publishConfig": {
+    "@andrew-scoppa:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/andrew-scoppa/node-package#readme"
 }
